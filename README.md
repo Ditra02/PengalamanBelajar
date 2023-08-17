@@ -22,3 +22,7 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 **14 Juni 2021**
 Mengikuti National onboarding di YT
+
+This is my new experience to do pull so im gonna revert this file
+1. Asyafa Ditra Al Hauna
+2. Harry Potter
