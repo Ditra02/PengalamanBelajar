@@ -22,3 +22,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 **14 Juni 2021**
 Mengikuti National onboarding di YT
+
+1. ALDA
